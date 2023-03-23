@@ -3,8 +3,9 @@ from selenium.webdriver.common.by import By
 
 '''
 Комментарий для проверяющего:
-Код написан для PyCharm строки обращения к driver возможно нужно будет заменить, 
-как и к user_language
+    1) Код написан для PyCharm строки обращения к driver возможно нужно будет заменить, 
+    как и к user_language
+    2) Выбор языка по умолчанию: None
 '''
 
 link = "http://selenium1py.pythonanywhere.com/catalogue/coders-at-work_207/"
