@@ -16,5 +16,5 @@ def test_should_check_basket(browser):
     input1 = browser.find_element(By.CSS_SELECTOR, ".btn-add-to-basket")
     text_basket = input1.text
     print(f"'Это текст на кнопке:' {text_basket}")
-    assert "Añadir al carrito" == text_basket, 'Код теста написан неверно'
+    assert "Añadir al carrito" == text_basket, 'Внимание, текст на кнопке на es'
 
