@@ -1,2 +1,2 @@
 # Tests_peer_review
-This repository for Selenium и Python course from Stepik
+This is the one of the task from selenium training course "Автоматизация тестирования с помощью Selenium и Python"
